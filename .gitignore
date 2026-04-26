@@ -1,0 +1,27 @@
+# Unity
+[Library/](file:///Library/)
+[Temp/](file:///Temp/)
+[Obj/](file:///Obj/)
+[Build/](file:///Build/)
+[Builds/](file:///Builds/)
+[Logs/](file:///Logs/)
+[MemoryCaptures/](file:///MemoryCaptures/)
+
+# AssetCompute
+[AssetComputeCache/](file:///AssetComputeCache/)
+
+# Gradle
+[.gradle/](file:///.gradle/)
+
+# IDEs
+[.vs/](file:///.vs/)
+[.idea/](file:///.idea/)
+[*.csproj](file:///*.csproj)
+[*.unityproj](file:///*.unityproj)
+[*.sln](file:///*.sln)
+[*.user](file:///*.user)
+[*.userprefs](file:///*.userprefs)
+
+# OS
+[.DS_Store](file:///.DS_Store)
+[Thumbs.db](file:///Thumbs.db)
